@@ -1,2 +1,2 @@
-# architecture---alt-ndoku
+# architecture---altindoku
 actually uploading a complete project
